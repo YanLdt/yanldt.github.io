@@ -1,8 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-This is an example page!
+### About Me
 
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+I'm liuyan, an iOS developer woking on audio & video in Chengdu China. Now I'm woking on an Surveillance APP called [VIGI APP](https://apps.apple.com/us/app/tp-link-vigi/id1509214439).
+
+
+My hobbies are as follows:
+- Coding in OC、Swift、C++
+- Reading books
+- Traveling
+- ...
